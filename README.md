@@ -29,11 +29,11 @@ We have a private channel in the Rocket Chat https://osint.team server for discu
 - 192 Tags defined (and much more to be defined)
 - 500 tools and references integrated, labelled, classified, rated and tagged. 
 
-# Have some OSINT loot ?
+# Have some OSINT loot/idea/content/Project ?
 First of all check that is has not already been added to the project resources tab then, 
 - You can fork and add it directly to the ORCS
 - You can fork and add it to "Add my stuff" in /ideas
-- Just send it to Schen (https://github.com/SchenLong) 
+- Create an issue, the content will be added to the ORCS
 
 # What´s now, what´s next ?
 - Current work: Addition of individual resources (+/- 2000 left)
