@@ -30,13 +30,13 @@ We have a private channel in the Rocket Chat https://osint.team server for discu
 - 500 tools and references integrated, labelled, classified, rated and tagged. 
 
 # Have some OSINT loot ?
-First of all check that is has not already been added to the project ressources tab then, 
+First of all check that is has not already been added to the project resources tab then, 
 - You can fork and add it directly to the ORCS
-- You can fork and add it to the folder "Add my stuff"
+- You can fork and add it to "Add my stuff" in /ideas
 - Just send it to Schen (https://github.com/SchenLong) 
 
 # What´s now, what´s next ?
-- Current work: Addition of individual ressources (+/- 2000 left)
+- Current work: Addition of individual resources (+/- 2000 left)
 - Next step: Interfacing the ORCS with a frontend allowing both Search tools ( Platform TBD) and Graphical navigation tools (YOGA)
 
 <img height=414px width=323px src=https://raw.githubusercontent.com/WebBreacher/orcs/master/ideas/orcs_logo.png>
