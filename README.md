@@ -39,6 +39,7 @@ First of all check that is has not already been added to the project resources t
 - Current work: Addition of individual resources (+/- 2000 left)
 - Next step: Interfacing the ORCS with a frontend allowing both Search tools ( Platform TBD) and Graphical navigation tools (YOGA)
 
+
 <img height=414px width=323px src=https://raw.githubusercontent.com/WebBreacher/orcs/master/ideas/orcs_logo.png>
 
 # License
