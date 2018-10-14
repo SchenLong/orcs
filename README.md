@@ -26,7 +26,7 @@ We have a private channel in the Rocket Chat https://osint.team server for discu
 # Current progress
 - 24 categories and 225 sub-categories established
 - 43 sources added to the project for their integration (Start.me, frameworks, tutos...)
-- 192 Tags defined (and much more to be defined)
+- 192 Tags defined (and much more to be added)
 - 500 tools and references integrated, labelled, classified, rated and tagged. 
 
 # Have some OSINT loot/idea/content/project ?
