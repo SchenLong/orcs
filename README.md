@@ -1,7 +1,8 @@
 # ORCS
 OSINT Resource Classification System
   - https://orcs.osint.ninja
-  - https://github.com/WebBreacher/orcs
+  - https://github.com/WebBreacher/orcs 
+  - https://github.com/SchenLong/orcs 
 
 # What is this?
 This site is (hopefully) where a bunch of people will get together and create an OSINT Resource Classification System that can be used to systematically organize and refer to types of resources used in OSINT work.
@@ -21,6 +22,22 @@ I need help with this. I need those people that have bookmark sites, PDFs, and o
 I imagine using this Github project for this work...at least initially. The Wiki https://github.com/WebBreacher/orcs/wiki and Projects features can help organize and publish our content.
 
 We have a private channel in the Rocket Chat https://osint.team server for discussions.
+
+# Current progress
+- 24 categories and 225 sub-categories established
+- 43 sources added to the project for their integration (Start.me, frameworks, tutos...)
+- 192 Tags defined (and much more to be defined)
+- 500 tools and references integrated, labelled, classified, rated and tagged. 
+
+# Have some OSINT loot ?
+First of all check that is has not already been added to the project ressources tab then, 
+- You can fork and add it directly to the ORCS
+- You can fork and add it to the folder "Add my stuff"
+- Just send it to Schen (https://github.com/SchenLong) 
+
+# What´s now, what´s next ?
+- Current work: Addition of individual ressources (+/- 2000 left)
+- Next step: Interfacing the ORCS with a frontend allowing both Search tools ( Platform TBD) and Graphical navigation tools (YOGA)
 
 <img height=414px width=323px src=https://raw.githubusercontent.com/WebBreacher/orcs/master/ideas/orcs_logo.png>
 
